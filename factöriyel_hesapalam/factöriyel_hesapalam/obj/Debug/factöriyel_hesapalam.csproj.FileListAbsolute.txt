@@ -1,0 +1,10 @@
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\factöriyel_hesapalam\factöriyel_hesapalam\bin\Debug\factöriyel_hesapalam.exe.config
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\factöriyel_hesapalam\factöriyel_hesapalam\bin\Debug\factöriyel_hesapalam.exe
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\factöriyel_hesapalam\factöriyel_hesapalam\bin\Debug\factöriyel_hesapalam.pdb
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\factöriyel_hesapalam\factöriyel_hesapalam\obj\Debug\factöriyel_hesapalam.csproj.AssemblyReference.cache
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\factöriyel_hesapalam\factöriyel_hesapalam\obj\Debug\factöriyel_hesapalam.Form1.resources
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\factöriyel_hesapalam\factöriyel_hesapalam\obj\Debug\factöriyel_hesapalam.Properties.Resources.resources
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\factöriyel_hesapalam\factöriyel_hesapalam\obj\Debug\factöriyel_hesapalam.csproj.GenerateResource.cache
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\factöriyel_hesapalam\factöriyel_hesapalam\obj\Debug\factöriyel_hesapalam.csproj.CoreCompileInputs.cache
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\factöriyel_hesapalam\factöriyel_hesapalam\obj\Debug\factöriyel_hesapalam.exe
+C:\Users\90545\OneDrive\Masaüstü\c# uygulamalari\factöriyel_hesapalam\factöriyel_hesapalam\obj\Debug\factöriyel_hesapalam.pdb
